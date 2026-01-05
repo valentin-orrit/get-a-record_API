@@ -1,7 +1,9 @@
 package com.getarecord.getarecord.controller;
 
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.test.web.client.TestRestTemplate;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.http.HttpStatus;
@@ -18,14 +20,29 @@ class HelloControllerTest {
     @Autowired
     HelloController helloController;
 
+    @Value("${lastfm.api.sharedSecret}")
+    private String lastfmSharedSecret;
+
+    private ResponseEntity<String> response;
+
+    @BeforeEach
+    void setup() {
+        response = restTemplate.getForEntity("/api/hello", String.class);
+    }
+
     @Test
-    void contextLoads() throws Exception {
+    void contextLoads() {
         assertThat(helloController).isNotNull();
     }
 
     @Test
     void shouldReturnAHelloString() {
-        ResponseEntity<String> response = restTemplate.getForEntity("/api/hello", String.class);
         assertThat(response.getStatusCode()).isEqualTo(HttpStatus.OK);
+        assertThat(response.getBody()).contains("hello");
+    }
+
+    @Test
+    void shouldReturnsSharedSecret() {
+        assertThat(response.getBody()).contains(lastfmSharedSecret);
     }
 }
