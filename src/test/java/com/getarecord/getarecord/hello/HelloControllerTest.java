@@ -1,5 +1,6 @@
-package com.getarecord.getarecord.controller;
+package com.getarecord.getarecord.hello;
 
+import com.getarecord.getarecord.controller.HelloController;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

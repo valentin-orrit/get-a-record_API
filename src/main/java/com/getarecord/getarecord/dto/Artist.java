@@ -1,4 +1,4 @@
-package com.getarecord.getarecord.record;
+package com.getarecord.getarecord.dto;
 
 public class Artist {
     private final String name;

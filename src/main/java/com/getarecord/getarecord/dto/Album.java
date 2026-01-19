@@ -1,24 +1,24 @@
-package com.getarecord.getarecord.record;
+package com.getarecord.getarecord.dto;
 
 import java.util.HashMap;
 
-public class Record {
+public class Album {
     private final String name;
-    private final Artist artist;
+    private final String artist;
     private final String mbid;
     private final String image;
-    private final String[] tag;
+    private final String[] tags;
     private final HashMap<Integer, String> tracklist;
     private final String listeners;
     private final String publicationDate;
     private final String summary;
 
-    public Record(String name, Artist artist, String mbid, String image, String[] tag, HashMap<Integer, String> tracklist, String listeners, String publicationDate, String summary) {
+    public Album(String name, String artist, String mbid, String image, String[] tags, HashMap<Integer, String> tracklist, String listeners, String publicationDate, String summary) {
         this.name = name;
         this.artist = artist;
         this.mbid = mbid;
         this.image = image;
-        this.tag = tag;
+        this.tags = tags;
         this.tracklist = tracklist;
         this.listeners = listeners;
         this.publicationDate = publicationDate;
@@ -29,7 +29,7 @@ public class Record {
         return name;
     }
 
-    public Artist getArtist() {
+    public String getArtist() {
         return artist;
     }
 
@@ -42,7 +42,7 @@ public class Record {
     }
 
     public String[] getTag() {
-        return tag;
+        return tags;
     }
 
     public HashMap<Integer, String> getTracklist() {
