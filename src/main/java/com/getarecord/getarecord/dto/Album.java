@@ -41,7 +41,7 @@ public class Album {
         return image;
     }
 
-    public String[] getTag() {
+    public String[] getTags() {
         return tags;
     }
 

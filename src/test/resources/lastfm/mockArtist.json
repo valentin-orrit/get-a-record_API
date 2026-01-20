@@ -1,12 +1,229 @@
 {
-  "name": "Burial",
-  "mbid": "9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6",
-  "tags": [
-    "dubstep",
-    "ambient",
-    "electronic",
-    "experimental",
-    "electronica"
-  ],
-  "bio": "William Emmanuel Bevan, known by his recording alias Burial, is a British electronic musician from South London. Initially remaining anonymous, Burial became the first artist signed to Kode9's electronic label Hyperdub in 2005. He won acclaim the following year for his self-titled debut album, an influential release in the UK's dubstep scene which showcased a dark, emotive take on UK rave music styles such as UK garage and 2-step; it was named the album of the year by The Wire. <a href=\"https://www.last.fm/music/Burial\">Read more on Last.fm</a>"
+  "artist": {
+    "name": "Burial",
+    "mbid": "9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6",
+    "url": "https://www.last.fm/music/Burial",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "size": ""
+      }
+    ],
+    "streamable": "0",
+    "ontour": "0",
+    "stats": {
+      "listeners": "1277937",
+      "playcount": "63460665"
+    },
+    "similar": {
+      "artist": [
+        {
+          "name": "Burial & Four Tet",
+          "url": "https://www.last.fm/music/Burial+&+Four+Tet",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "extralarge"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "mega"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": ""
+            }
+          ]
+        },
+        {
+          "name": "Burial & Four Tet & Thom Yorke",
+          "url": "https://www.last.fm/music/Burial+&+Four+Tet+&+Thom+Yorke",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "extralarge"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "mega"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": ""
+            }
+          ]
+        },
+        {
+          "name": "Kode9",
+          "url": "https://www.last.fm/music/Kode9",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "extralarge"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "mega"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": ""
+            }
+          ]
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://www.last.fm/music/Four+Tet",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "extralarge"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "mega"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": ""
+            }
+          ]
+        },
+        {
+          "name": "Zomby",
+          "url": "https://www.last.fm/music/Zomby",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "extralarge"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": "mega"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+              "size": ""
+            }
+          ]
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "dubstep",
+          "url": "https://www.last.fm/tag/dubstep"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "electronica",
+          "url": "https://www.last.fm/tag/electronica"
+        }
+      ]
+    },
+    "bio": {
+      "links": {
+        "link": {
+          "#text": "",
+          "rel": "original",
+          "href": "https://last.fm/music/Burial/+wiki"
+        }
+      },
+      "published": "11 Jul 2006, 05:11",
+      "summary": "William Emmanuel Bevan, known by his recording alias Burial, is a British electronic musician from South London. Initially remaining anonymous, Burial became the first artist signed to Kode9's electronic label Hyperdub in 2005. He won acclaim the following year for his self-titled debut album, an influential release in the UK's dubstep scene which showcased a dark, emotive take on UK rave music styles such as UK garage and 2-step; it was named the album of the year by The Wire. <a href=\"https://www.last.fm/music/Burial\">Read more on Last.fm</a>",
+      "content": "William Emmanuel Bevan, known by his recording alias Burial, is a British electronic musician from South London. Initially remaining anonymous, Burial became the first artist signed to Kode9's electronic label Hyperdub in 2005. He won acclaim the following year for his self-titled debut album, an influential release in the UK's dubstep scene which showcased a dark, emotive take on UK rave music styles such as UK garage and 2-step; it was named the album of the year by The Wire. Burial's second album, Untrue, was released to further critical acclaim in 2007.\n\nIn 2008, Bevan's identity was revealed by The Independent and confirmed by Hyperdub. In the following years, he went on to collaborate with artists such as Four Tet, Massive Attack, Thom Yorke, Zomby, and The Bug, in addition to releasing a series of long-form EPs such as Kindred (2012), Truant / Rough Sleeper (2012), and Rival Dealer (2013); most of these releases were later compiled on the 2019 compilation Tunes 2011–2019. He has remained reclusive, giving few interviews and avoiding public appearances.[8] AllMusic described him as \"one of the most acclaimed, influential, and enigmatic electronic musicians of the early 21st century.\"\n\nEarly career: self-titled debut and Untrue\n\nBevan grew up being a fan of jungle and garage, having been introduced to the UK rave scene by his older brothers. He mentioned American garage producer Todd Edwards and the UK's 2-step subgenre as favorites.\n\nBevan began sending Steve Goodman (Kode9) letters and CD-Rs of his home-made music around 2002, having been a fan of the music featured on Goodman's Hyperdub website. In 2005, the label released the South London Boroughs EP, which collected tracks recorded by Burial for several years prior. Burial's self-titled 2006 debut album was the first full-length release on Hyperdub.\n\nDespite early acclaim, Burial initially remained anonymous, and said in an early interview that \"only five people know I make tunes\". In February 2008, The Independent speculated that Burial was Bevan, an alumnus of South London's Elliott School. The school's alumni also include Kieran Hebden (Four Tet), with whom Bevan has collaborated. On 22 July 2008, it was announced Burial was a nominee for the 2008 Mercury Music Prize for his second album, Untrue. There was much Mercury Prize-related coverage in tabloid newspapers in the UK, including speculation that Burial was either Richard D. James (Aphex Twin) or Norman Cook (Fatboy Slim). On 5 August 2008, Bevan confirmed his identity, and posted a picture of himself on his Myspace page.\n\nPost-Untrue work\n\nRather than releasing a third album, Burial has spent the years since Untrue releasing increasingly longer and more experimental individual tracks. This began with \"Moth\" / \"Wolf Cub\", a collaboration with Four Tet, and Burial's own track \"Fostercare\" and EP Street Halo. He developed this practice, experimenting with multi-part suites rather than conventional songs on a Massive Attack collaboration, \"Four Walls\" / \"Paradise Circus\", and subsequent solo EPs Kindred (2012), Truant / Rough Sleeper (2012) and Rival Dealer (2013). Each of these EPs was met with critical acclaim, with Kindred being singled out in particular as a landmark release. Three further shorter records were released in the following years; \"Temple Sleeper\" was released on Keysound Recordings in 2015, an EP titled Young Death / Nightmarket came out in November 2016, and Subtemple / Beachfires followed in May 2017.\n\nIn 2018, Burial worked with Kode9 to compile Fabriclive 100, the final instalment of the long-running Fabriclive mix CD series. He then collaborated with The Bug on two EPs, 2018's Fog / Shrine and 2019's Dive / Rain, released under the names \"Flame 1\" and \"Flame 2\", respectively. A compilation of Burial's solo EP and single releases, Tunes 2011–2019, was released on Hyperdub at the end of 2019.\n\nIn December 2020, Burial, Four Tet, and Thom Yorke released two new songs, \"Her Revolution\" and \"His Rope\", followed by a Burial-only release, \"Chemz\". In April 2021, Burial and Blackdown released a split EP, Shock Power of Love, with two songs from each artist. The next month, the previous year's single, \"Chemz\", was given a physical release alongside the track \"Dolphinz\".\n\nIn December 2021, a new EP titled Antidawn was announced for a release in January 2022. Another EP titled Streetlands released later the same year in October. In July 2023, Burial released the single \"Unknown Summer\", alongside Kode9's single \"Infirmary\".\n\nIn February 2024, Burial released the EP \"Dreamfear / Boy Sent From Above\" on XL Recordings. Later that year in June, Burial and Kode9 released another split single, consisting of Burial's \"Phoneglow\" and Kode9's \"Eyes Go Blank\". \n\nHere are some other same name artists':\n2) Burial is a death metal band from The Netherlands. They released a downloadable album, Relinquished Souls at their website.\n\n3) Burial is a hardcore punk band from Germany. They mix the sounds of early American hardcore with a definite dose of Japanese hardcore and Japanese burning spirits.\n\n4) Burial is a brutal death metal band. They first got noticed with their self-produced debut CD, Mourning The Millenium. After appearing at several major US fests, Burial was signed to Lost Disciple Records and in 2000 released Enlightened With Pain, showcasing the band's pummeling brutality and technical proficiency. In 2001, Burial completed their first US tour, including Milwaukee Metalfest.\n\n5) Burial is a blackened death metal band from Manchester, England.\n\n6) Burial is a deathcore band from Québec City, Québec\n\n7) Burial is a black ambient band from Poland. \n8) Burial is a horrorcore artist from Michigan, Detroit.\n9) Burial is a death/doom metal band from Italy. <a href=\"https://www.last.fm/music/Burial\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
 }
