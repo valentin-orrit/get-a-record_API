@@ -1,0 +1,12 @@
+package com.getarecord.getarecord.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class ApiViewController {
+    @GetMapping("/api")
+    public String apiIndex() {
+        return "forward:/api/index.html";
+    }
+}
