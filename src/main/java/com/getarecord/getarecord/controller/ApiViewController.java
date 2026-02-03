@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class ApiViewController {
     @GetMapping("/api")
     public String apiIndex() {
-        return "forward:/api/index.html";
+        return "redirect:/api/index.html";
     }
 }
