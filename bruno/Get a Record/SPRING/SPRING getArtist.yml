@@ -1,0 +1,19 @@
+info:
+  name: SPRING getArtist
+  type: http
+  seq: 1
+
+http:
+  method: GET
+  url: "{{LOCALHOST}}/api/artist?mbid=a78f1671-3ebf-4822-b2bd-70ccc3088c2d"
+  params:
+    - name: mbid
+      value: a78f1671-3ebf-4822-b2bd-70ccc3088c2d
+      type: query
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

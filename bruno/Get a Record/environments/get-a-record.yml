@@ -1,0 +1,10 @@
+name: get-a-record
+variables:
+  - secret: true
+    name: LASTFM_API_KEY
+  - secret: true
+    name: LASTFM_API_SHAREDSECRET
+  - secret: true
+    name: LASTFM_API_BASEURL
+  - name: LOCALHOST
+    value: http://localhost:8080

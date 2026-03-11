@@ -1,0 +1,28 @@
+info:
+  name: LASTFM-API album from mbid
+  type: http
+  seq: 1
+
+http:
+  method: GET
+  url: "{{LASTFM_API_BASEURL}}/?method=album.getinfo&api_key={{LASTFM_API_KEY}}&mbid=02aa03a5-001b-4e5a-b3ad-23ad0fadb49c&format=json"
+  params:
+    - name: method
+      value: album.getinfo
+      type: query
+    - name: api_key
+      value: "{{LASTFM_API_KEY}}"
+      type: query
+    - name: mbid
+      value: 02aa03a5-001b-4e5a-b3ad-23ad0fadb49c
+      type: query
+    - name: format
+      value: json
+      type: query
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
